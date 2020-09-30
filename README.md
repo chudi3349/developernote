@@ -4,6 +4,7 @@
 3. Learn JavaScript visually - Ivelin Demirov 
 4.  JavaScript: The definitive guide - David Flanagan 
 5.  A smarter way to learn JavaScript - Mark Myers
+6. Head First JavaScript Programming -Eric Freeman, Elisbeth Robson
 	##### Non Programming 
 	1. Atomic Habits by James clear 
 	2.  Deep work by Cal Newport 
@@ -106,6 +107,7 @@
 - http://coursera.org
 - http://khanacademy.org
 - http://sololearn.com
+- http://udemy.com
 
 #### Coading Chanllenge Platforms 
 - http://codewars.com
